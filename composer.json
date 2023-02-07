@@ -1,5 +1,5 @@
 {
-  "name": "lg/library-generator",
+  "name": "LIBGEN/library-generator",
   "description": "Site map generation library in various files: xml, csv, json",
   "type": "library",
   "license": "MIT",
