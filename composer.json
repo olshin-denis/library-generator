@@ -1,0 +1,21 @@
+{
+  "name": "library-generator",
+  "description": "Site map generation library in various files: xml, csv, json",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "LibraryGenerator\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Denis",
+      "email": "olshin-denis@mail.ru"
+    }
+  ],
+  "require": {
+    "ext-json": "*",
+    "ext-mbstring": "*"
+  }
+}
