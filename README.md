@@ -1,5 +1,5 @@
 ### Установка
-`composer require smg/sitemap-generator`
+`composer require libgen/library-generator`
 
 
 ### Пример использования
