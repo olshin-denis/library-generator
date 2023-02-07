@@ -1,5 +1,5 @@
 ### Установка
-`composer require libgen/library-generator`
+`composer require libgen/library-generator:@dev`
 
 
 ### Пример использования
